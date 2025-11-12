@@ -5,7 +5,6 @@ Exploring the world of Machine Learning from scratch — learning, practicing, a
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Basics-orange?logo=google)
 ![Status](https://img.shields.io/badge/Status-Learning-success)
-![License](https://img.shields.io/badge/License-MIT-lightgrey)
 ![Contributions](https://img.shields.io/badge/Contributions-Welcome-brightgreen)
 
 ---
